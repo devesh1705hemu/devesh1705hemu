@@ -53,7 +53,7 @@ A project repository showcasing development work.
 ## 📫 Connect With Me
 
 - **GitHub:** [@devesh1705hemu](https://github.com/devesh1705hemu)
-- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/devesh-arya3010/)
+- **LinkedIn:** [.@devesh-arya3010](https://www.linkedin.com/in/devesh-arya3010/)
 
 ---
 
